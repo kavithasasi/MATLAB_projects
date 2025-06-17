@@ -1,3 +1,6 @@
 * text=auto 
 *.mlapp binary 
 *.mat binary 
+*.fig binary
+*.zip binary
+
