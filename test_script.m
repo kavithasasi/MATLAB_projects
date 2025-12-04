@@ -6,3 +6,7 @@ b=30;
 c=a+b;
 disp(c);
 disp('Kavithas git reposiory for MATLAB projects -version1');
+b=40;
+c=a+b;
+disp(datetime);
+disp('Kavithas git reposiory for MATLAB projects -version2');
